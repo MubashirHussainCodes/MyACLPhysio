@@ -22,17 +22,17 @@ Physio App is a comprehensive application designed to help physiotherapists mana
     ```
 3. Install dependencies:
     ```bash
-    npm install
+    flutter pub get
     ```
 4. Start the application:
     ```bash
-    npm start
+    flutter run
     ```
 
 ## Usage
 1. Open the app in your browser:
     ```
-    http://localhost:3000
+    select "chrome" 
     ```
 2. Register or log in to your account.
 3. Start managing your patients and treatment plans.
