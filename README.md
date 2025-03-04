@@ -1,15 +1,9 @@
 # Physio App
 
 ## Overview
-Physio App is a comprehensive application designed to help physiotherapists manage their patients, track progress, and provide personalized treatment plans. The app aims to streamline the workflow of physiotherapy practices and improve patient outcomes.
+This is an App I created as my personal ACL Rehab physiotheraoy assistant which helps me do physio on my own. I am adding new content to this app every now and then to make it more useful as I go forward with my rehab.
 
-## Features
-- **Patient Management**: Easily add, edit, and manage patient information.
-- **Treatment Plans**: Create and customize treatment plans for each patient.
-- **Progress Tracking**: Monitor patient progress with detailed reports and analytics.
-- **Appointment Scheduling**: Schedule and manage appointments with an integrated calendar.
-- **Notifications**: Receive reminders for upcoming appointments and tasks.
-- **Secure Data**: Ensure patient data is secure with encryption and access controls.
+You can check it out or edit and make it just the way you want it to be. 
 
 ## Installation
 1. Clone the repository:
